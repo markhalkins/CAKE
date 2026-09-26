@@ -76,7 +76,7 @@
     <div class="candle"></div>
     <div class="flame"></div>
   </div>
-  <h1>🎉 Happy Birthday 🎉</h1>
-  <h2>Michael Oleveros Cabus</h2>
+  <h1>🎉 ANG SARAP MO ALDRIN!!! 🎉</h1>
+  <h2></h2>
 </body>
 </html>
